@@ -3,6 +3,7 @@ Sistema de análise de crédito desenvolvido para teste na empresa Calcard.
 
 # Construção
  **Requisitos**
+ - Windows 10 (Projeto desenvolvido neste SO)
  - Eclipse Oxygen 3
  - JDK Java
  - RS2XML
