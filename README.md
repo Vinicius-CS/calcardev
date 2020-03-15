@@ -4,7 +4,7 @@ Sistema de análise de crédito desenvolvido para teste na empresa Calcard.
 # Construção
  **Requisitos**
  - Eclipse Oxygen 3
- - JDK
+ - JDK Java
  - RS2XML
  
  **Construindo**
